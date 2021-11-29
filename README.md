@@ -2,7 +2,7 @@
 - 👀 I’m interested in (too) many things.
 - 🌱 I’m currently learning ansible & jenkins.
 - 💞️ I’m looking to collaborate on Libre/Free & Open Source projects.
-- 📫 Find me on IRC libera.chat @joshaspinall.  Email joshaspinall@ember.fsf.org.
+- 📫 Find me on IRC libera.chat @joshaspinall.  Email joshaspinall@member.fsf.org.
 
 <!---
 joshaspinall/joshaspinall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
